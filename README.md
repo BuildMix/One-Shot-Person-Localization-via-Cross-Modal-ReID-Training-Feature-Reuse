@@ -1,6 +1,6 @@
 
-# 基于 Re-ID 特征复用的单样本跨模态行人定位
-# One-Shot Cross-Modal Person Localization via Re-ID Feature Reuse
+# 基于 Re-ID 特征复用的零样本跨模态行人定位
+# Zero-Shot Cross-Modal Person Localization via Re-ID Feature Reuse
 
 [![PyTorch](https://img.shields.io/badge/PyTorch-v1.8.0+-ee4c2c.svg)](https://pytorch.org/)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
